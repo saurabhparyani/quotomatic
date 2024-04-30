@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Production build
+dist/
+
+# npm debug log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
